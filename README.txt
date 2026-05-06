@@ -645,10 +645,8 @@ practices suitable for enterprise deployment and future feature expansion.
 AUTHOR
 ================================================================================
 
-Development:  Ayaan
-Email:        amaan@gmail.com
-GitHub:       ayaan-github
-LinkedIn:     Ayaan-profile
+Development:  Amaan
+Email:        amaanahmed_ee22b15_28@dtu.ac.in
 
 ================================================================================
 LICENSE
