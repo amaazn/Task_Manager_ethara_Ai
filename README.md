@@ -726,8 +726,8 @@ TaskFlow demonstrates a production-ready full-stack application with modern arch
 
 **Development:** Ayaan  
 **Email:** amaan@gmail.com  
-**GitHub:** [ayaan-github](https://github.com)  
-**LinkedIn:** [Ayaan-profile](https://linkedin.com)
+**GitHub:** [Amaan-github](https://github.com/amaazn)  
+**LinkedIn:** [Amaan-profile](https://www.linkedin.com/in/amaan-ahmed-14a556256/)
 
 ---
 
